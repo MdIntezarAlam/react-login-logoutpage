@@ -1,0 +1,34 @@
+.reg_heading {
+    display: inline-block;
+    margin-top: 40px;
+    margin-left: 32%;
+    font-size: 40PX;
+}
+
+.reg_submit {
+    margin-left: 17%;
+    margin-top: 7%;
+    width: 68%;
+    height: 10%;
+    font-size: 20px;
+    text-align: center;
+    background-color: #13cfcf;
+    color: #fff;
+    outline: none;
+    border-style: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.already_have_an_account {
+    display: inline-block;
+    font-size: 22px;
+    margin-left: 17%;
+    margin-top: 10px;
+    cursor: pointer;
+}
+
+.already_have_an_account a {
+    text-decoration: none;
+}
+

@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+
+}
+
+.error {
+    color: red;
+    margin-left: 15%;
+    font-size: 20px;
+}
+
+.blue__container {
+    background-color: #00FFFF;
+    height: 100vh;
+    width: 100%;
+    overflow: hidden;
+}
+
+.full__center {
+    display: grid;
+    place-items: center;
+}
